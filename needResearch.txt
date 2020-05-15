@@ -1,0 +1,8 @@
+OpenStack, 
+Chef,
+Salt,
+Octopus deploy,
+Memcache,
+Radis
+MongoDB,
+Cassandra
