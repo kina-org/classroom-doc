@@ -4,6 +4,7 @@ Technlolog used:
 
 front end:
 React,
+React-Hook,
 Angular,
 SASS,
 Jest,
@@ -13,7 +14,8 @@ Redux,
 React Virtualized,
 Grunt,
 progressive web app,
-redux-thunk
+redux-thunk,
+Microfont-end,
 
 
 backend:
